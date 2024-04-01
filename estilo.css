@@ -1,0 +1,33 @@
+.botao{
+    padding: 10px 30px;
+    color: rgb(255, 0, 0);
+    float: right;
+    font-size: 30px;
+    text-align: center;
+    margin-right: 30px;
+    margin-top: 2%;
+}
+.titulo{
+    float: left;
+    color: rgb(255, 0, 0);
+    font-size: 70px;
+}
+
+.linha {
+    margin-top: 1%;
+    width: 2000px; /*largura*/
+    height: 2px; /* altura*/
+    background-color: rgb(12, 1, 22);
+    font-family: montserrat;
+}
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+}
+.texto{
+    color:black;
+    font-size:200px;
+    font-family:montserrat;
+}
