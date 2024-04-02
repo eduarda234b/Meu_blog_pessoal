@@ -1,6 +1,6 @@
 .botao {
     padding: 10px 30px;
-    color: rgb(255, 0, 0);
+    color: rgb(216, 6, 6);
     float: right;
     font-size: 30px;
     text-align: center;
@@ -10,7 +10,7 @@
 
 .titulo {
     float: left;
-    color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
     font-size: 70px;
 }
 
@@ -76,6 +76,7 @@
 }
 
 #botao-quente{
-   font-size: ;
-
+   font-size: 30px ;
+   color: rgb(216, 6, 6);
+  
 }
