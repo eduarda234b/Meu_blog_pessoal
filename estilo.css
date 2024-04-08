@@ -143,36 +143,3 @@ body{
     box-sizing: border-box;
     text-align: center;
 }
-
-/* 
-/* Adiciona animação para o título *
-.titulo span {
-    overflow: hidden; /* Garante que a letra fique oculta inicialmente *
-    animation: digitar 1s steps(1, end) forwards; /* Animação de digitação *
-    display: inline-block;
-    width: 0;
-}
-
-@keyframes digitar {
-    from {
-        width: 0; /* Inicia com largura 0 *
-    }
-    to {
-        width: auto; /* Ajusta a largura para auto (largura padrão do texto) *
-    }
-}
-
-
-
-
-.rodape {
-    background-color: #333; /* Cor de fundo do rodapé *
-    color: #fff; /* Cor do texto do rodapé *
-    text-align: center; /* Alinhamento do texto *
-    padding: 20px 0; /* Espaçamento interno do rodapé *
-    position: relative; /* Alterado para posição fixa *
-    width: 100%; /* Largura total *
-    bottom: 0; /* Coloca o rodapé na parte inferior da janela do navegador *
-    left: 0; /* Alinha o rodapé à esquerda *
-}
-*/
